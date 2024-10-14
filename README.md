@@ -166,6 +166,8 @@ Our beloved contributors:
 
 > [@babybloo]() | High-quality designing
 
+> [@dunedude]() | funny features, Developer
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
