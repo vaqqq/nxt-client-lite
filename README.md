@@ -166,7 +166,9 @@ Our beloved contributors:
 
 > [@babybloo]() | High-quality designing
 
-> [@dunedude]() | funny features, Developer
+> [@dunedude]() | Funny features, Developer
+
+> [@Error]() | Client structure
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,8 +182,6 @@ Our beloved contributors:
 > [@Vaq]() | Developer, Designer
 
 > [@Myffo]() | Developer
-
-> [@Error]() | Developer
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
