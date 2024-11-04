@@ -3,6 +3,7 @@
 ![GitHub Tag](https://img.shields.io/github/v/tag/vaqqq/holy-client-lite?style=for-the-badge&label=Version)
 ![License](https://img.shields.io/badge/Proprietary-green?style=for-the-badge&label=License)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/vaqqq/holy-client-lite/total?style=for-the-badge)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/vaqqq/holy-client-lite/latest/total?style=for-the-badge&logoColor=%20&color=light-green)
 ![Discord](https://img.shields.io/discord/1269411543615930421?style=for-the-badge&label=Discord&color=%237289da&link=https%3A%2F%2Fdiscord.gg%2FmE6KyEeVMK)
 
 <br />
