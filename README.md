@@ -162,14 +162,14 @@ We've tested some Chromium flags that might be helpful for gameplay. ╮ (. ❛ 
 
 ### Shortcuts
 
-| :Shortcut: | :Function: |
+| Shortcut | Function |
 |----------|----------|
-| :CTRL + Shift + F1: | :Temporarily remove CSS: |
-| :F4: | :Find random game: |
-| :F5: | :Reload: |
-| :F6: | :Login with 1st Alt Account: |
-| :F7: | :Login with 2nd Alt Account: |
-| :F8: | :Login with 3rd Alt Account: |
+| CTRL + Shift + F1 | Temporarily remove CSS |
+| F4 | Find random game |
+| F5 | Reload |
+| F6 | Login with 1st Alt Account |
+| F7 | Login with 2nd Alt Account |
+| F8 | Login with 3rd Alt Account |
 
 ---
 
