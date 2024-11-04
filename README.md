@@ -48,6 +48,7 @@
         <li><a href="#single-key-login">Single Key Login</a></li>
         <li><a href="#unlimited-fps">Unlimited FPS</a></li>
         <li><a href="#helpful-flags">Helpful Flags</a></li>
+        <li><a href="#shortcuts">Shortcuts</a></li>
       </ul>
     </li>
     <li><a href="#❤️-contributors">❤️ Contributors</a></li> <!-- Changed to text-only anchor -->
@@ -156,6 +157,19 @@ We've tested some Chromium flags that might be helpful for gameplay. ╮ (. ❛ 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+### Shortcuts
+
+| :Shortcut: | :Function: |
+|----------|----------|
+| :CTRL + Shift + F1: | :Temporarily remove CSS: |
+| :F4: | :Find random game: |
+| :F5: | :Reload: |
+| :F6: | :Login with 1st Alt Account: |
+| :F7: | :Login with 2nd Alt Account: |
+| :F8: | :Login with 3rd Alt Account: |
 
 ---
 
