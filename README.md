@@ -45,7 +45,8 @@
       <a href="#beta-features">Beta Features</a> <!-- Fixed capitalization and spacing -->
       <ul>
         <li><a href="#important">Important</a></li>
-        <li><a href="#holyswapper">HolySwapper</a></li>
+        <li><a href="#holycss">HolyCSS</a></li>
+        <li><a href="#discord-rpc">Discord RPC</a></li>
         <li><a href="#single-key-login">Single Key Login</a></li>
         <li><a href="#unlimited-fps">Unlimited FPS</a></li>
         <li><a href="#helpful-flags">Helpful Flags</a></li>
@@ -128,11 +129,46 @@ Easily manage and switch between your accounts using our Alt Manager.
 
 ---
 
-### HolySwapper
+### HolyCSS
+
+#### Custom 
+
+Uses a custom CSS that you can set using these options.
+
+<a href="https://github.com/vaqqq/holy-client-lite">
+  <img src="images/customcss.png" alt="Custom CSS Settings" width="512" height="88">
+</a>
+
+To choose a file, simply navigate to the file that you would want to use as your CSS using the popup and select said file.
+
+
+#### Swapper
 
 Path: `%appData%/Roaming/holy/HolySwapper`
 
 Insert your CSS files here to apply them in-game. Name the game CSS as `main_custom` and the hub CSS as `social_custom`.
+
+#### Client
+
+Allows you to choose one of the CSS's that are built into the Holy.
+
+<a href="https://github.com/vaqqq/holy-client-lite">
+  <img src="images/clicss.png" alt="Built-in CSS Setting" width="512" height="88">
+</a>
+
+#### Disabled
+
+Disables any Client CSS that is being used.
+
+---
+
+### Discord RPC
+
+Settings for your Discord Rich Presence.
+
+<a href="https://github.com/vaqqq/holy-client-lite">
+  <img src="images/discord.png" alt="Built-in CSS Setting" width="512" height="183">
+</a>
 
 ---
 
