@@ -12,7 +12,7 @@
     <img src="images/holy.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Holy Lite Beta</h3>
+  <h3 align="center">Holy Lite</h3>
 
   <p align="center">
     The Krunker Client of enlightenment. 
@@ -42,7 +42,7 @@
       </ul>
     </li>
     <li>
-      <a href="#beta-features">Beta Features</a> <!-- Fixed capitalization and spacing -->
+      <a href="#beta-features">Features</a> <!-- Fixed capitalization and spacing -->
       <ul>
         <li><a href="#important">Important</a></li>
         <li><a href="#holycss">HolyCSS</a></li>
