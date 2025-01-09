@@ -219,7 +219,7 @@ Our beloved contributors:
 
 > [@dunedude]() | Funny features, Developer
 
-> [@Error]() | Client structure
+> [@Error]() | Code Rewrite
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
