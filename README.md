@@ -12,10 +12,10 @@
     <img src="images/holy.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Holy Lite</h3>
+  <h3 align="center">NXT Lite</h3>
 
   <p align="center">
-    The Krunker Client of enlightenment. 
+    The future of Krunker clients. 
     <br />
     <a href="#getting-started"><strong>Getting Started »</strong></a>
     <br />
@@ -45,7 +45,7 @@
       <a href="#beta-features">Features</a> <!-- Fixed capitalization and spacing -->
       <ul>
         <li><a href="#important">Important</a></li>
-        <li><a href="#holycss">HolyCSS</a></li>
+        <li><a href="#nxtcss">NXTCSS</a></li>
         <li><a href="#discord-rpc">Discord RPC</a></li>
         <li><a href="#single-key-login">Single Key Login</a></li>
         <li><a href="#unlimited-fps">Unlimited FPS</a></li>
@@ -129,7 +129,7 @@ Easily manage and switch between your accounts using our Alt Manager.
 
 ---
 
-### HolyCSS
+### NXTCSS
 
 #### Custom 
 
