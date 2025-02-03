@@ -45,7 +45,7 @@
       <a href="#beta-features">Features</a> <!-- Fixed capitalization and spacing -->
       <ul>
         <li><a href="#important">Important</a></li>
-        <li><a href="#nxtcss">NXTCSS</a></li>
+        <li><a href="#nxt-css">NXT CSS</a></li>
         <li><a href="#discord-rpc">Discord RPC</a></li>
         <li><a href="#single-key-login">Single Key Login</a></li>
         <li><a href="#unlimited-fps">Unlimited FPS</a></li>
@@ -129,9 +129,11 @@ Easily manage and switch between your accounts using our Alt Manager.
 
 ---
 
-### NXT CSS
+<!-- NXT CSS -->
 
-#### Custom 
+## NXT CSS
+
+### Custom 
 
 Uses a custom CSS that you can set using these options.
 
@@ -142,7 +144,7 @@ Uses a custom CSS that you can set using these options.
 To choose a file, simply navigate to the file that you would want to use as your CSS using the popup and select said file.
 
 
-#### Swapper
+### Swapper
 
 Path: `%appData%/Roaming/holy/HolySwapper`
 
