@@ -253,8 +253,8 @@ Distributed under a proprietary license. See `LICENSE.md` for more information.
 ## Contact
 
 - Discord Support Server - [[Click Here]](https://discord.gg/mE6KyEeVMK)
-- Email - contact@holy-client.com
-- Website - [holy-client.com](https://nxt-client.com/)
+- Email - contact@nxt-client.com
+- Website - [nxt-client.com](https://nxt-client.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
