@@ -115,6 +115,15 @@ Connect to Twitch with a clean chat interface, allowing communication with viewe
   <img src="images/twitch.png" alt="Twitch Logo" width="250" height="130">
 </a>
 
+
+### Content Creator Activity Display
+
+This is just a little window in the top right of your main menu that shows which of the CCs that work with NXT are live.
+
+<a href="https://github.com/vaqqq/nxt-client">
+  <img src="images/cc_container.png" alt="CC COntainer" width="175" height="160">
+</a>
+
 ---
 
 - ![Static Badge](https://img.shields.io/badge/Alt%20Manager-%23383838?style=for-the-badge)
