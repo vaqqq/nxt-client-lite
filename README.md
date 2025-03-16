@@ -155,13 +155,13 @@ To choose a file, simply navigate to the file that you would want to use as your
 
 ### Swapper
 
-Path: `%appData%/Roaming/holy/HolySwapper`
+Path: `%appData%/Roaming/nxt/NXTSwapper`
 
 Insert your CSS files here to apply them in-game. Name the game CSS as `main_custom` and the hub CSS as `social_custom`.
 
 #### Client
 
-Allows you to choose one of the CSS's that are built into the Holy.
+Allows you to choose one of the CSS's that are built into the client.
 
 <a href="https://github.com/vaqqq/nxt-client-lite">
   <img src="images/clicss.png" alt="Built-in CSS Setting" width="512" height="88">
